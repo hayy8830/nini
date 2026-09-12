@@ -3,12 +3,11 @@
     padding: 0;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
-body{
-    background-color: rgb(171, 219, 211);
+body{
     background: url(slovenia-hilltop-3840x2160-23639.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: scroll;
+    
 }
 
 .login {
